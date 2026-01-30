@@ -98,7 +98,7 @@ To see the help menu with all available commands and options:
 ## Contributing
 Feel free to open issues or submit pull requests to improve parsing, add backup options, or extend supported frames.
 
-## Live Demo
+## Sample Execution
 
 |      | Terminal Output |
 |------|-----------------|
